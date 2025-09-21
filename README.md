@@ -1,4 +1,4 @@
-# gospel-html
+# gospel-military-ai
 Gospel adalah salah saru dari Military AI yang digunakan Zionist untuk menargetkan warga Palestina
 <!DOCTYPE html>
 <html lang="id">
